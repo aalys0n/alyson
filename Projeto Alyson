@@ -1,0 +1,3 @@
+git remoto adicionar origem https://github.com/aalys0n/alyson.git
+ git branch -M principal 
+git push -u origem principal
